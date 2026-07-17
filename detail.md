@@ -1,0 +1,3 @@
+
+
+tu m'implement les model en respectant l'architecture preciser a noter que lapp doit a voir un systeme de gestion de panier pour les utilisateur (les clients ) jaurAIS BESOIN DE endpoint un un bouton ajouter au panier et un bouton achter ki vas permetre just dappeller le panier enfet et pr l'admin ell aura un dashboard pour le trafic cest a dire le nombre de client inscrit le nombre de commande kell a eu etc yaura un systeme d'upload pour pemetre a l'admin dajouter ces produit ficer les prix et de les publier pour les client connecter enfet pour les pagneer quand l'utilisateur vas cliker su commander on vas just le diriger vers le whtsap de l'admiin aussi le client a la possibliter de s'authentifier par google au lieu de cree un compte apart just pour la site 
